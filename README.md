@@ -3,7 +3,8 @@
 A beautiful, intelligent habit tracking iOS app built with **SwiftUI** that helps users build lasting habits through smart insights, AI suggestions, and on-device intelligence.
 
 
-![App Preview](screenshots/dashboard.png) 
+## [App Preview](screenshots/dashboard.png)
+
 <img width="653" height="1030" alt="Screenshot 2026-04-06 at 11 16 59 AM" src="https://github.com/user-attachments/assets/5c77b8d4-07b1-41a8-9be7-b60f5053bdb7" />
 <img width="544" height="1033" alt="Screenshot 2026-04-06 at 11 17 52 AM" src="https://github.com/user-attachments/assets/96157adb-1cb9-4575-825e-e952d2e58356" />
 <img width="535" height="1029" alt="Screenshot 2026-04-06 at 11 17 41 AM" src="https://github.com/user-attachments/assets/e44e75d4-412c-44c6-b9eb-7631eed1df09" />
